@@ -1,4 +1,4 @@
-# banco-de-dados2
+# exercicio-dio2
 
 import textwrap
 
